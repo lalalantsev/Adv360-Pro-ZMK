@@ -37,7 +37,7 @@
     ], [
            "&kp NUMBER_0", "&kp NUMBER_1", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3", "&kp NUMBER_4",           "&kp NUMBER_5",                                                                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
            "&kp NUMBER_9",        "&kp Q",        "&kp W",        "&kp E",        "&kp R",        "&kp T",                  "&none",                                                                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-           "&kp NUMBER_8",        "&kp A",        "&kp S",        "&kp D",        "&kp F",        "&kp G",                  "&none",    "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+           "&kp NUMBER_8",        "&kp A",        "&kp S",        "&kp D",        "&kp F",        "&kp G",                  "&none",    "&trans", "&tog 0",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
               "&kp LSHFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",        "&kp B",                                        "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&kp LC(LS(LALT))",    "&kp PG_DN",    "&kp PG_UP",     "&kp HOME",      "&kp END",                               "&kp LALT", "&kp LCTRL", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&tog 0"
     ]

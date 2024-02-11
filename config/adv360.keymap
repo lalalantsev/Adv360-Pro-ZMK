@@ -84,7 +84,7 @@
  &kp NUMBER_9         &kp Q         &kp W         &kp E         &kp R         &kp T                 &kp NUMBER_6                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &kp NUMBER_8         &kp A         &kp S         &kp D         &kp F         &kp G                 &kp NUMBER_7  &trans     &to 0                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
     &kp LSHFT         &kp Z         &kp X         &kp C         &kp V         &kp B                                       &kp HOME                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-       &kp F1        &kp F2        &kp F3        &kp F5        &kp F6                                   &kp LALT  &kp F4   &kp END                  &trans  &trans  &trans          &trans  &trans  &trans  &trans   &to 0
+       &kp F1        &kp F2        &kp F3     &kp PG_DN     &kp PG_DN                                   &kp LALT  &kp F4   &kp END                  &trans  &trans  &trans          &trans  &trans  &trans  &trans   &to 0
             >;
         };
 
